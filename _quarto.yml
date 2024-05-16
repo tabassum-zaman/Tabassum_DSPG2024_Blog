@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Tabassum_DSPG2024_Blog"
+  title: "Tabassum_DSPG2024"
   navbar:
     right:
       - about.qmd

@@ -1,13 +1,14 @@
 ---
-title: "New Post"
+title: "New Post-1"
 author: "Tabassum Zaman"
 date: "2024-05-16"
-categories: [Inception, Journey, Destiantion, New ]
-image: "image.jpg"
+categories: [news, code, analysis]
+image: "test.png"
 ---
 
+## ![](test.png)
+
 This is a post with executable code.
-![](image.jpg)
 
 ```{r}
 1 + 1
